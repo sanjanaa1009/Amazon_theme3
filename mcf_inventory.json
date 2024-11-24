@@ -1,0 +1,2552 @@
+[
+  {
+    "product": "digital",
+    "ecommerce": "Shopify",
+    "stock": 66
+  },
+  {
+    "product": "clothes",
+    "ecommerce": "BigCommerce",
+    "stock": 42
+  },
+  {
+    "product": "stationery",
+    "ecommerce": "WooCommerce",
+    "stock": 95
+  },
+  {
+    "product": "electronics",
+    "ecommerce": "Magento",
+    "stock": 3
+  },
+  {
+    "product": "toys",
+    "ecommerce": "Squarespace",
+    "stock": 78
+  },
+  {
+    "product": "books",
+    "ecommerce": "Wix",
+    "stock": 97
+  },
+  {
+    "product": "jewelry",
+    "ecommerce": "Volusion",
+    "stock": 51
+  },
+  {
+    "product": "tools",
+    "ecommerce": "OpenCart",
+    "stock": 92
+  },
+  {
+    "product": "cosmetics",
+    "ecommerce": "PrestaShop",
+    "stock": 1
+  },
+  {
+    "product": "sporting goods",
+    "ecommerce": "3dcart",
+    "stock": 4
+  },
+  {
+    "product": "home decor",
+    "ecommerce": "Shopify",
+    "stock": 13
+  },
+  {
+    "product": "kitchenware",
+    "ecommerce": "BigCommerce",
+    "stock": 86
+  },
+  {
+    "product": "pet supplies",
+    "ecommerce": "WooCommerce",
+    "stock": 18
+  },
+  {
+    "product": "art supplies",
+    "ecommerce": "Magento",
+    "stock": 46
+  },
+  {
+    "product": "office supplies",
+    "ecommerce": "Squarespace",
+    "stock": 32
+  },
+  {
+    "product": "music instruments",
+    "ecommerce": "Wix",
+    "stock": 20
+  },
+  {
+    "product": "fitness equipment",
+    "ecommerce": "Volusion",
+    "stock": 53
+  },
+  {
+    "product": "party supplies",
+    "ecommerce": "OpenCart",
+    "stock": 24
+  },
+  {
+    "product": "gardening tools",
+    "ecommerce": "PrestaShop",
+    "stock": 17
+  },
+  {
+    "product": "baby products",
+    "ecommerce": "3dcart",
+    "stock": 58
+  },
+  {
+    "product": "automotive accessories",
+    "ecommerce": "Shopify",
+    "stock": 47
+  },
+  {
+    "product": "video games",
+    "ecommerce": "BigCommerce",
+    "stock": 18
+  },
+  {
+    "product": "collectibles",
+    "ecommerce": "WooCommerce",
+    "stock": 73
+  },
+  {
+    "product": "craft supplies",
+    "ecommerce": "Magento",
+    "stock": 34
+  },
+  {
+    "product": "outdoor gear",
+    "ecommerce": "Squarespace",
+    "stock": 85
+  },
+  {
+    "product": "fashion accessories",
+    "ecommerce": "Wix",
+    "stock": 47
+  },
+  {
+    "product": "travel accessories",
+    "ecommerce": "Volusion",
+    "stock": 78
+  },
+  {
+    "product": "health products",
+    "ecommerce": "OpenCart",
+    "stock": 94
+  },
+  {
+    "product": "food items",
+    "ecommerce": "PrestaShop",
+    "stock": 27
+  },
+  {
+    "product": "beverages",
+    "ecommerce": "3dcart",
+    "stock": 39
+  },
+  {
+    "product": "furniture",
+    "ecommerce": "Shopify",
+    "stock": 46
+  },
+  {
+    "product": "tech gadgets",
+    "ecommerce": "BigCommerce",
+    "stock": 61
+  },
+  {
+    "product": "personal care products",
+    "ecommerce": "WooCommerce",
+    "stock": 10
+  },
+  {
+    "product": "educational toys",
+    "ecommerce": "Magento",
+    "stock": 17
+  },
+  {
+    "product": "DIY kits",
+    "ecommerce": "Squarespace",
+    "stock": 34
+  },
+  {
+    "product": "gift items",
+    "ecommerce": "Wix",
+    "stock": 61
+  },
+  {
+    "product": "vintage items",
+    "ecommerce": "Volusion",
+    "stock": 69
+  },
+  {
+    "product": "handmade crafts",
+    "ecommerce": "OpenCart",
+    "stock": 13
+  },
+  {
+    "product": "fitness apparel",
+    "ecommerce": "PrestaShop",
+    "stock": 74
+  },
+  {
+    "product": "smart home devices",
+    "ecommerce": "3dcart",
+    "stock": 93
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Shopify",
+    "stock": 18
+  },
+  {
+    "product": "puzzles",
+    "ecommerce": "BigCommerce",
+    "stock": 52
+  },
+  {
+    "product": "board games",
+    "ecommerce": "WooCommerce",
+    "stock": 26
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Magento",
+    "stock": 93
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Squarespace",
+    "stock": 19
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Wix",
+    "stock": 80
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Volusion",
+    "stock": 61
+  },
+  {
+    "product": "board games",
+    "ecommerce": "OpenCart",
+    "stock": 60
+  },
+  {
+    "product": "board games",
+    "ecommerce": "PrestaShop",
+    "stock": 13
+  },
+  {
+    "product": "board games",
+    "ecommerce": "3dcart",
+    "stock": 80
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Shopify",
+    "stock": 90
+  },
+  {
+    "product": "digital",
+    "ecommerce": "BigCommerce",
+    "stock": 59
+  },
+  {
+    "product": "clothes",
+    "ecommerce": "WooCommerce",
+    "stock": 82
+  },
+  {
+    "product": "stationery",
+    "ecommerce": "Magento",
+    "stock": 96
+  },
+  {
+    "product": "electronics",
+    "ecommerce": "Squarespace",
+    "stock": 20
+  },
+  {
+    "product": "toys",
+    "ecommerce": "Wix",
+    "stock": 72
+  },
+  {
+    "product": "books",
+    "ecommerce": "Volusion",
+    "stock": 59
+  },
+  {
+    "product": "jewelry",
+    "ecommerce": "OpenCart",
+    "stock": 28
+  },
+  {
+    "product": "tools",
+    "ecommerce": "PrestaShop",
+    "stock": 40
+  },
+  {
+    "product": "cosmetics",
+    "ecommerce": "3dcart",
+    "stock": 58
+  },
+  {
+    "product": "sporting goods",
+    "ecommerce": "Shopify",
+    "stock": 22
+  },
+  {
+    "product": "home decor",
+    "ecommerce": "BigCommerce",
+    "stock": 56
+  },
+  {
+    "product": "kitchenware",
+    "ecommerce": "WooCommerce",
+    "stock": 17
+  },
+  {
+    "product": "pet supplies",
+    "ecommerce": "Magento",
+    "stock": 31
+  },
+  {
+    "product": "art supplies",
+    "ecommerce": "Squarespace",
+    "stock": 100
+  },
+  {
+    "product": "office supplies",
+    "ecommerce": "Wix",
+    "stock": 74
+  },
+  {
+    "product": "music instruments",
+    "ecommerce": "Volusion",
+    "stock": 79
+  },
+  {
+    "product": "fitness equipment",
+    "ecommerce": "OpenCart",
+    "stock": 79
+  },
+  {
+    "product": "party supplies",
+    "ecommerce": "PrestaShop",
+    "stock": 55
+  },
+  {
+    "product": "gardening tools",
+    "ecommerce": "3dcart",
+    "stock": 33
+  },
+  {
+    "product": "baby products",
+    "ecommerce": "Shopify",
+    "stock": 42
+  },
+  {
+    "product": "automotive accessories",
+    "ecommerce": "BigCommerce",
+    "stock": 37
+  },
+  {
+    "product": "video games",
+    "ecommerce": "WooCommerce",
+    "stock": 76
+  },
+  {
+    "product": "collectibles",
+    "ecommerce": "Magento",
+    "stock": 37
+  },
+  {
+    "product": "craft supplies",
+    "ecommerce": "Squarespace",
+    "stock": 3
+  },
+  {
+    "product": "outdoor gear",
+    "ecommerce": "Wix",
+    "stock": 1
+  },
+  {
+    "product": "fashion accessories",
+    "ecommerce": "Volusion",
+    "stock": 74
+  },
+  {
+    "product": "travel accessories",
+    "ecommerce": "OpenCart",
+    "stock": 9
+  },
+  {
+    "product": "health products",
+    "ecommerce": "PrestaShop",
+    "stock": 70
+  },
+  {
+    "product": "food items",
+    "ecommerce": "3dcart",
+    "stock": 86
+  },
+  {
+    "product": "beverages",
+    "ecommerce": "Shopify",
+    "stock": 81
+  },
+  {
+    "product": "furniture",
+    "ecommerce": "BigCommerce",
+    "stock": 68
+  },
+  {
+    "product": "tech gadgets",
+    "ecommerce": "WooCommerce",
+    "stock": 87
+  },
+  {
+    "product": "personal care products",
+    "ecommerce": "Magento",
+    "stock": 19
+  },
+  {
+    "product": "educational toys",
+    "ecommerce": "Squarespace",
+    "stock": 57
+  },
+  {
+    "product": "DIY kits",
+    "ecommerce": "Wix",
+    "stock": 46
+  },
+  {
+    "product": "gift items",
+    "ecommerce": "Volusion",
+    "stock": 57
+  },
+  {
+    "product": "vintage items",
+    "ecommerce": "OpenCart",
+    "stock": 67
+  },
+  {
+    "product": "handmade crafts",
+    "ecommerce": "PrestaShop",
+    "stock": 97
+  },
+  {
+    "product": "fitness apparel",
+    "ecommerce": "3dcart",
+    "stock": 16
+  },
+  {
+    "product": "smart home devices",
+    "ecommerce": "Shopify",
+    "stock": 72
+  },
+  {
+    "product": "board games",
+    "ecommerce": "BigCommerce",
+    "stock": 97
+  },
+  {
+    "product": "puzzles",
+    "ecommerce": "WooCommerce",
+    "stock": 35
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Magento",
+    "stock": 75
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Squarespace",
+    "stock": 46
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Wix",
+    "stock": 52
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Volusion",
+    "stock": 58
+  },
+  {
+    "product": "board games",
+    "ecommerce": "OpenCart",
+    "stock": 63
+  },
+  {
+    "product": "board games",
+    "ecommerce": "PrestaShop",
+    "stock": 13
+  },
+  {
+    "product": "board games",
+    "ecommerce": "3dcart",
+    "stock": 58
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Shopify",
+    "stock": 86
+  },
+  {
+    "product": "board games",
+    "ecommerce": "BigCommerce",
+    "stock": 11
+  },
+  {
+    "product": "digital",
+    "ecommerce": "WooCommerce",
+    "stock": 94
+  },
+  {
+    "product": "clothes",
+    "ecommerce": "Magento",
+    "stock": 100
+  },
+  {
+    "product": "stationery",
+    "ecommerce": "Squarespace",
+    "stock": 15
+  },
+  {
+    "product": "electronics",
+    "ecommerce": "Wix",
+    "stock": 3
+  },
+  {
+    "product": "toys",
+    "ecommerce": "Volusion",
+    "stock": 45
+  },
+  {
+    "product": "books",
+    "ecommerce": "OpenCart",
+    "stock": 16
+  },
+  {
+    "product": "jewelry",
+    "ecommerce": "PrestaShop",
+    "stock": 84
+  },
+  {
+    "product": "tools",
+    "ecommerce": "3dcart",
+    "stock": 75
+  },
+  {
+    "product": "cosmetics",
+    "ecommerce": "Shopify",
+    "stock": 78
+  },
+  {
+    "product": "sporting goods",
+    "ecommerce": "BigCommerce",
+    "stock": 75
+  },
+  {
+    "product": "home decor",
+    "ecommerce": "WooCommerce",
+    "stock": 30
+  },
+  {
+    "product": "kitchenware",
+    "ecommerce": "Magento",
+    "stock": 26
+  },
+  {
+    "product": "pet supplies",
+    "ecommerce": "Squarespace",
+    "stock": 47
+  },
+  {
+    "product": "art supplies",
+    "ecommerce": "Wix",
+    "stock": 65
+  },
+  {
+    "product": "office supplies",
+    "ecommerce": "Volusion",
+    "stock": 23
+  },
+  {
+    "product": "music instruments",
+    "ecommerce": "OpenCart",
+    "stock": 82
+  },
+  {
+    "product": "fitness equipment",
+    "ecommerce": "PrestaShop",
+    "stock": 25
+  },
+  {
+    "product": "party supplies",
+    "ecommerce": "3dcart",
+    "stock": 46
+  },
+  {
+    "product": "gardening tools",
+    "ecommerce": "Shopify",
+    "stock": 83
+  },
+  {
+    "product": "baby products",
+    "ecommerce": "BigCommerce",
+    "stock": 54
+  },
+  {
+    "product": "automotive accessories",
+    "ecommerce": "WooCommerce",
+    "stock": 93
+  },
+  {
+    "product": "video games",
+    "ecommerce": "Magento",
+    "stock": 60
+  },
+  {
+    "product": "collectibles",
+    "ecommerce": "Squarespace",
+    "stock": 35
+  },
+  {
+    "product": "craft supplies",
+    "ecommerce": "Wix",
+    "stock": 5
+  },
+  {
+    "product": "outdoor gear",
+    "ecommerce": "Volusion",
+    "stock": 88
+  },
+  {
+    "product": "fashion accessories",
+    "ecommerce": "OpenCart",
+    "stock": 88
+  },
+  {
+    "product": "travel accessories",
+    "ecommerce": "PrestaShop",
+    "stock": 14
+  },
+  {
+    "product": "health products",
+    "ecommerce": "3dcart",
+    "stock": 28
+  },
+  {
+    "product": "food items",
+    "ecommerce": "Shopify",
+    "stock": 5
+  },
+  {
+    "product": "beverages",
+    "ecommerce": "BigCommerce",
+    "stock": 15
+  },
+  {
+    "product": "furniture",
+    "ecommerce": "WooCommerce",
+    "stock": 79
+  },
+  {
+    "product": "tech gadgets",
+    "ecommerce": "Magento",
+    "stock": 89
+  },
+  {
+    "product": "personal care products",
+    "ecommerce": "Squarespace",
+    "stock": 45
+  },
+  {
+    "product": "educational toys",
+    "ecommerce": "Wix",
+    "stock": 37
+  },
+  {
+    "product": "DIY kits",
+    "ecommerce": "Volusion",
+    "stock": 29
+  },
+  {
+    "product": "gift items",
+    "ecommerce": "OpenCart",
+    "stock": 39
+  },
+  {
+    "product": "vintage items",
+    "ecommerce": "PrestaShop",
+    "stock": 7
+  },
+  {
+    "product": "handmade crafts",
+    "ecommerce": "3dcart",
+    "stock": 5
+  },
+  {
+    "product": "fitness apparel",
+    "ecommerce": "Shopify",
+    "stock": 36
+  },
+  {
+    "product": "smart home devices",
+    "ecommerce": "BigCommerce",
+    "stock": 67
+  },
+  {
+    "product": "board games",
+    "ecommerce": "WooCommerce",
+    "stock": 93
+  },
+  {
+    "product": "puzzles",
+    "ecommerce": "Magento",
+    "stock": 21
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Squarespace",
+    "stock": 7
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Wix",
+    "stock": 29
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Volusion",
+    "stock": 75
+  },
+  {
+    "product": "board games",
+    "ecommerce": "OpenCart",
+    "stock": 91
+  },
+  {
+    "product": "board games",
+    "ecommerce": "PrestaShop",
+    "stock": 51
+  },
+  {
+    "product": "board games",
+    "ecommerce": "3dcart",
+    "stock": 50
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Shopify",
+    "stock": 8
+  },
+  {
+    "product": "board games",
+    "ecommerce": "BigCommerce",
+    "stock": 59
+  },
+  {
+    "product": "board games",
+    "ecommerce": "WooCommerce",
+    "stock": 89
+  },
+  {
+    "product": "digital",
+    "ecommerce": "Magento",
+    "stock": 44
+  },
+  {
+    "product": "clothes",
+    "ecommerce": "Squarespace",
+    "stock": 34
+  },
+  {
+    "product": "stationery",
+    "ecommerce": "Wix",
+    "stock": 90
+  },
+  {
+    "product": "electronics",
+    "ecommerce": "Volusion",
+    "stock": 10
+  },
+  {
+    "product": "toys",
+    "ecommerce": "OpenCart",
+    "stock": 71
+  },
+  {
+    "product": "books",
+    "ecommerce": "PrestaShop",
+    "stock": 86
+  },
+  {
+    "product": "jewelry",
+    "ecommerce": "3dcart",
+    "stock": 86
+  },
+  {
+    "product": "tools",
+    "ecommerce": "Shopify",
+    "stock": 43
+  },
+  {
+    "product": "cosmetics",
+    "ecommerce": "BigCommerce",
+    "stock": 75
+  },
+  {
+    "product": "sporting goods",
+    "ecommerce": "WooCommerce",
+    "stock": 99
+  },
+  {
+    "product": "home decor",
+    "ecommerce": "Magento",
+    "stock": 73
+  },
+  {
+    "product": "kitchenware",
+    "ecommerce": "Squarespace",
+    "stock": 43
+  },
+  {
+    "product": "pet supplies",
+    "ecommerce": "Wix",
+    "stock": 90
+  },
+  {
+    "product": "art supplies",
+    "ecommerce": "Volusion",
+    "stock": 79
+  },
+  {
+    "product": "office supplies",
+    "ecommerce": "OpenCart",
+    "stock": 9
+  },
+  {
+    "product": "music instruments",
+    "ecommerce": "PrestaShop",
+    "stock": 99
+  },
+  {
+    "product": "fitness equipment",
+    "ecommerce": "3dcart",
+    "stock": 26
+  },
+  {
+    "product": "party supplies",
+    "ecommerce": "Shopify",
+    "stock": 88
+  },
+  {
+    "product": "gardening tools",
+    "ecommerce": "BigCommerce",
+    "stock": 91
+  },
+  {
+    "product": "baby products",
+    "ecommerce": "WooCommerce",
+    "stock": 22
+  },
+  {
+    "product": "automotive accessories",
+    "ecommerce": "Magento",
+    "stock": 22
+  },
+  {
+    "product": "video games",
+    "ecommerce": "Squarespace",
+    "stock": 71
+  },
+  {
+    "product": "collectibles",
+    "ecommerce": "Wix",
+    "stock": 29
+  },
+  {
+    "product": "craft supplies",
+    "ecommerce": "Volusion",
+    "stock": 78
+  },
+  {
+    "product": "outdoor gear",
+    "ecommerce": "OpenCart",
+    "stock": 54
+  },
+  {
+    "product": "fashion accessories",
+    "ecommerce": "PrestaShop",
+    "stock": 66
+  },
+  {
+    "product": "travel accessories",
+    "ecommerce": "3dcart",
+    "stock": 38
+  },
+  {
+    "product": "health products",
+    "ecommerce": "Shopify",
+    "stock": 29
+  },
+  {
+    "product": "food items",
+    "ecommerce": "BigCommerce",
+    "stock": 95
+  },
+  {
+    "product": "beverages",
+    "ecommerce": "WooCommerce",
+    "stock": 69
+  },
+  {
+    "product": "furniture",
+    "ecommerce": "Magento",
+    "stock": 41
+  },
+  {
+    "product": "tech gadgets",
+    "ecommerce": "Squarespace",
+    "stock": 2
+  },
+  {
+    "product": "personal care products",
+    "ecommerce": "Wix",
+    "stock": 40
+  },
+  {
+    "product": "educational toys",
+    "ecommerce": "Volusion",
+    "stock": 87
+  },
+  {
+    "product": "DIY kits",
+    "ecommerce": "OpenCart",
+    "stock": 18
+  },
+  {
+    "product": "gift items",
+    "ecommerce": "PrestaShop",
+    "stock": 90
+  },
+  {
+    "product": "vintage items",
+    "ecommerce": "3dcart",
+    "stock": 46
+  },
+  {
+    "product": "handmade crafts",
+    "ecommerce": "Shopify",
+    "stock": 50
+  },
+  {
+    "product": "fitness apparel",
+    "ecommerce": "BigCommerce",
+    "stock": 29
+  },
+  {
+    "product": "smart home devices",
+    "ecommerce": "WooCommerce",
+    "stock": 58
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Magento",
+    "stock": 84
+  },
+  {
+    "product": "puzzles",
+    "ecommerce": "Squarespace",
+    "stock": 18
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Wix",
+    "stock": 88
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Volusion",
+    "stock": 67
+  },
+  {
+    "product": "board games",
+    "ecommerce": "OpenCart",
+    "stock": 71
+  },
+  {
+    "product": "board games",
+    "ecommerce": "PrestaShop",
+    "stock": 21
+  },
+  {
+    "product": "board games",
+    "ecommerce": "3dcart",
+    "stock": 27
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Shopify",
+    "stock": 78
+  },
+  {
+    "product": "board games",
+    "ecommerce": "BigCommerce",
+    "stock": 5
+  },
+  {
+    "product": "board games",
+    "ecommerce": "WooCommerce",
+    "stock": 82
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Magento",
+    "stock": 14
+  },
+  {
+    "product": "digital",
+    "ecommerce": "Squarespace",
+    "stock": 19
+  },
+  {
+    "product": "clothes",
+    "ecommerce": "Wix",
+    "stock": 10
+  },
+  {
+    "product": "stationery",
+    "ecommerce": "Volusion",
+    "stock": 26
+  },
+  {
+    "product": "electronics",
+    "ecommerce": "OpenCart",
+    "stock": 64
+  },
+  {
+    "product": "toys",
+    "ecommerce": "PrestaShop",
+    "stock": 77
+  },
+  {
+    "product": "books",
+    "ecommerce": "3dcart",
+    "stock": 94
+  },
+  {
+    "product": "jewelry",
+    "ecommerce": "Shopify",
+    "stock": 78
+  },
+  {
+    "product": "tools",
+    "ecommerce": "BigCommerce",
+    "stock": 62
+  },
+  {
+    "product": "cosmetics",
+    "ecommerce": "WooCommerce",
+    "stock": 52
+  },
+  {
+    "product": "sporting goods",
+    "ecommerce": "Magento",
+    "stock": 34
+  },
+  {
+    "product": "home decor",
+    "ecommerce": "Squarespace",
+    "stock": 15
+  },
+  {
+    "product": "kitchenware",
+    "ecommerce": "Wix",
+    "stock": 87
+  },
+  {
+    "product": "pet supplies",
+    "ecommerce": "Volusion",
+    "stock": 90
+  },
+  {
+    "product": "art supplies",
+    "ecommerce": "OpenCart",
+    "stock": 62
+  },
+  {
+    "product": "office supplies",
+    "ecommerce": "PrestaShop",
+    "stock": 21
+  },
+  {
+    "product": "music instruments",
+    "ecommerce": "3dcart",
+    "stock": 79
+  },
+  {
+    "product": "fitness equipment",
+    "ecommerce": "Shopify",
+    "stock": 89
+  },
+  {
+    "product": "party supplies",
+    "ecommerce": "BigCommerce",
+    "stock": 52
+  },
+  {
+    "product": "gardening tools",
+    "ecommerce": "WooCommerce",
+    "stock": 71
+  },
+  {
+    "product": "baby products",
+    "ecommerce": "Magento",
+    "stock": 26
+  },
+  {
+    "product": "automotive accessories",
+    "ecommerce": "Squarespace",
+    "stock": 23
+  },
+  {
+    "product": "video games",
+    "ecommerce": "Wix",
+    "stock": 5
+  },
+  {
+    "product": "collectibles",
+    "ecommerce": "Volusion",
+    "stock": 92
+  },
+  {
+    "product": "craft supplies",
+    "ecommerce": "OpenCart",
+    "stock": 87
+  },
+  {
+    "product": "outdoor gear",
+    "ecommerce": "PrestaShop",
+    "stock": 26
+  },
+  {
+    "product": "fashion accessories",
+    "ecommerce": "3dcart",
+    "stock": 98
+  },
+  {
+    "product": "travel accessories",
+    "ecommerce": "Shopify",
+    "stock": 82
+  },
+  {
+    "product": "health products",
+    "ecommerce": "BigCommerce",
+    "stock": 9
+  },
+  {
+    "product": "food items",
+    "ecommerce": "WooCommerce",
+    "stock": 84
+  },
+  {
+    "product": "beverages",
+    "ecommerce": "Magento",
+    "stock": 29
+  },
+  {
+    "product": "furniture",
+    "ecommerce": "Squarespace",
+    "stock": 38
+  },
+  {
+    "product": "tech gadgets",
+    "ecommerce": "Wix",
+    "stock": 23
+  },
+  {
+    "product": "personal care products",
+    "ecommerce": "Volusion",
+    "stock": 5
+  },
+  {
+    "product": "educational toys",
+    "ecommerce": "OpenCart",
+    "stock": 53
+  },
+  {
+    "product": "DIY kits",
+    "ecommerce": "PrestaShop",
+    "stock": 17
+  },
+  {
+    "product": "gift items",
+    "ecommerce": "3dcart",
+    "stock": 99
+  },
+  {
+    "product": "vintage items",
+    "ecommerce": "Shopify",
+    "stock": 83
+  },
+  {
+    "product": "handmade crafts",
+    "ecommerce": "BigCommerce",
+    "stock": 7
+  },
+  {
+    "product": "fitness apparel",
+    "ecommerce": "WooCommerce",
+    "stock": 13
+  },
+  {
+    "product": "smart home devices",
+    "ecommerce": "Magento",
+    "stock": 89
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Squarespace",
+    "stock": 50
+  },
+  {
+    "product": "puzzles",
+    "ecommerce": "Wix",
+    "stock": 90
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Volusion",
+    "stock": 32
+  },
+  {
+    "product": "board games",
+    "ecommerce": "OpenCart",
+    "stock": 70
+  },
+  {
+    "product": "board games",
+    "ecommerce": "PrestaShop",
+    "stock": 16
+  },
+  {
+    "product": "board games",
+    "ecommerce": "3dcart",
+    "stock": 53
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Shopify",
+    "stock": 23
+  },
+  {
+    "product": "board games",
+    "ecommerce": "BigCommerce",
+    "stock": 81
+  },
+  {
+    "product": "board games",
+    "ecommerce": "WooCommerce",
+    "stock": 56
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Magento",
+    "stock": 60
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Squarespace",
+    "stock": 96
+  },
+  {
+    "product": "digital",
+    "ecommerce": "Wix",
+    "stock": 49
+  },
+  {
+    "product": "clothes",
+    "ecommerce": "Volusion",
+    "stock": 29
+  },
+  {
+    "product": "stationery",
+    "ecommerce": "OpenCart",
+    "stock": 9
+  },
+  {
+    "product": "electronics",
+    "ecommerce": "PrestaShop",
+    "stock": 6
+  },
+  {
+    "product": "toys",
+    "ecommerce": "3dcart",
+    "stock": 87
+  },
+  {
+    "product": "books",
+    "ecommerce": "Shopify",
+    "stock": 81
+  },
+  {
+    "product": "jewelry",
+    "ecommerce": "BigCommerce",
+    "stock": 77
+  },
+  {
+    "product": "tools",
+    "ecommerce": "WooCommerce",
+    "stock": 52
+  },
+  {
+    "product": "cosmetics",
+    "ecommerce": "Magento",
+    "stock": 28
+  },
+  {
+    "product": "sporting goods",
+    "ecommerce": "Squarespace",
+    "stock": 59
+  },
+  {
+    "product": "home decor",
+    "ecommerce": "Wix",
+    "stock": 22
+  },
+  {
+    "product": "kitchenware",
+    "ecommerce": "Volusion",
+    "stock": 51
+  },
+  {
+    "product": "pet supplies",
+    "ecommerce": "OpenCart",
+    "stock": 81
+  },
+  {
+    "product": "art supplies",
+    "ecommerce": "PrestaShop",
+    "stock": 23
+  },
+  {
+    "product": "office supplies",
+    "ecommerce": "3dcart",
+    "stock": 57
+  },
+  {
+    "product": "music instruments",
+    "ecommerce": "Shopify",
+    "stock": 97
+  },
+  {
+    "product": "fitness equipment",
+    "ecommerce": "BigCommerce",
+    "stock": 88
+  },
+  {
+    "product": "party supplies",
+    "ecommerce": "WooCommerce",
+    "stock": 18
+  },
+  {
+    "product": "gardening tools",
+    "ecommerce": "Magento",
+    "stock": 50
+  },
+  {
+    "product": "baby products",
+    "ecommerce": "Squarespace",
+    "stock": 17
+  },
+  {
+    "product": "automotive accessories",
+    "ecommerce": "Wix",
+    "stock": 29
+  },
+  {
+    "product": "video games",
+    "ecommerce": "Volusion",
+    "stock": 5
+  },
+  {
+    "product": "collectibles",
+    "ecommerce": "OpenCart",
+    "stock": 20
+  },
+  {
+    "product": "craft supplies",
+    "ecommerce": "PrestaShop",
+    "stock": 79
+  },
+  {
+    "product": "outdoor gear",
+    "ecommerce": "3dcart",
+    "stock": 23
+  },
+  {
+    "product": "fashion accessories",
+    "ecommerce": "Shopify",
+    "stock": 46
+  },
+  {
+    "product": "travel accessories",
+    "ecommerce": "BigCommerce",
+    "stock": 69
+  },
+  {
+    "product": "health products",
+    "ecommerce": "WooCommerce",
+    "stock": 88
+  },
+  {
+    "product": "food items",
+    "ecommerce": "Magento",
+    "stock": 66
+  },
+  {
+    "product": "beverages",
+    "ecommerce": "Squarespace",
+    "stock": 23
+  },
+  {
+    "product": "furniture",
+    "ecommerce": "Wix",
+    "stock": 22
+  },
+  {
+    "product": "tech gadgets",
+    "ecommerce": "Volusion",
+    "stock": 64
+  },
+  {
+    "product": "personal care products",
+    "ecommerce": "OpenCart",
+    "stock": 30
+  },
+  {
+    "product": "educational toys",
+    "ecommerce": "PrestaShop",
+    "stock": 98
+  },
+  {
+    "product": "DIY kits",
+    "ecommerce": "3dcart",
+    "stock": 59
+  },
+  {
+    "product": "gift items",
+    "ecommerce": "Shopify",
+    "stock": 87
+  },
+  {
+    "product": "vintage items",
+    "ecommerce": "BigCommerce",
+    "stock": 56
+  },
+  {
+    "product": "handmade crafts",
+    "ecommerce": "WooCommerce",
+    "stock": 26
+  },
+  {
+    "product": "fitness apparel",
+    "ecommerce": "Magento",
+    "stock": 6
+  },
+  {
+    "product": "smart home devices",
+    "ecommerce": "Squarespace",
+    "stock": 80
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Wix",
+    "stock": 73
+  },
+  {
+    "product": "puzzles",
+    "ecommerce": "Volusion",
+    "stock": 43
+  },
+  {
+    "product": "board games",
+    "ecommerce": "OpenCart",
+    "stock": 85
+  },
+  {
+    "product": "board games",
+    "ecommerce": "PrestaShop",
+    "stock": 22
+  },
+  {
+    "product": "board games",
+    "ecommerce": "3dcart",
+    "stock": 75
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Shopify",
+    "stock": 41
+  },
+  {
+    "product": "board games",
+    "ecommerce": "BigCommerce",
+    "stock": 97
+  },
+  {
+    "product": "board games",
+    "ecommerce": "WooCommerce",
+    "stock": 74
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Magento",
+    "stock": 35
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Squarespace",
+    "stock": 92
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Wix",
+    "stock": 27
+  },
+  {
+    "product": "digital",
+    "ecommerce": "Volusion",
+    "stock": 90
+  },
+  {
+    "product": "clothes",
+    "ecommerce": "OpenCart",
+    "stock": 32
+  },
+  {
+    "product": "stationery",
+    "ecommerce": "PrestaShop",
+    "stock": 33
+  },
+  {
+    "product": "electronics",
+    "ecommerce": "3dcart",
+    "stock": 66
+  },
+  {
+    "product": "toys",
+    "ecommerce": "Shopify",
+    "stock": 2
+  },
+  {
+    "product": "books",
+    "ecommerce": "BigCommerce",
+    "stock": 57
+  },
+  {
+    "product": "jewelry",
+    "ecommerce": "WooCommerce",
+    "stock": 76
+  },
+  {
+    "product": "tools",
+    "ecommerce": "Magento",
+    "stock": 60
+  },
+  {
+    "product": "cosmetics",
+    "ecommerce": "Squarespace",
+    "stock": 22
+  },
+  {
+    "product": "sporting goods",
+    "ecommerce": "Wix",
+    "stock": 31
+  },
+  {
+    "product": "home decor",
+    "ecommerce": "Volusion",
+    "stock": 25
+  },
+  {
+    "product": "kitchenware",
+    "ecommerce": "OpenCart",
+    "stock": 5
+  },
+  {
+    "product": "pet supplies",
+    "ecommerce": "PrestaShop",
+    "stock": 49
+  },
+  {
+    "product": "art supplies",
+    "ecommerce": "3dcart",
+    "stock": 11
+  },
+  {
+    "product": "office supplies",
+    "ecommerce": "Shopify",
+    "stock": 68
+  },
+  {
+    "product": "music instruments",
+    "ecommerce": "BigCommerce",
+    "stock": 77
+  },
+  {
+    "product": "fitness equipment",
+    "ecommerce": "WooCommerce",
+    "stock": 92
+  },
+  {
+    "product": "party supplies",
+    "ecommerce": "Magento",
+    "stock": 10
+  },
+  {
+    "product": "gardening tools",
+    "ecommerce": "Squarespace",
+    "stock": 99
+  },
+  {
+    "product": "baby products",
+    "ecommerce": "Wix",
+    "stock": 53
+  },
+  {
+    "product": "automotive accessories",
+    "ecommerce": "Volusion",
+    "stock": 75
+  },
+  {
+    "product": "video games",
+    "ecommerce": "OpenCart",
+    "stock": 98
+  },
+  {
+    "product": "collectibles",
+    "ecommerce": "PrestaShop",
+    "stock": 68
+  },
+  {
+    "product": "craft supplies",
+    "ecommerce": "3dcart",
+    "stock": 99
+  },
+  {
+    "product": "outdoor gear",
+    "ecommerce": "Shopify",
+    "stock": 95
+  },
+  {
+    "product": "fashion accessories",
+    "ecommerce": "BigCommerce",
+    "stock": 43
+  },
+  {
+    "product": "travel accessories",
+    "ecommerce": "WooCommerce",
+    "stock": 98
+  },
+  {
+    "product": "health products",
+    "ecommerce": "Magento",
+    "stock": 11
+  },
+  {
+    "product": "food items",
+    "ecommerce": "Squarespace",
+    "stock": 9
+  },
+  {
+    "product": "beverages",
+    "ecommerce": "Wix",
+    "stock": 52
+  },
+  {
+    "product": "furniture",
+    "ecommerce": "Volusion",
+    "stock": 14
+  },
+  {
+    "product": "tech gadgets",
+    "ecommerce": "OpenCart",
+    "stock": 56
+  },
+  {
+    "product": "personal care products",
+    "ecommerce": "PrestaShop",
+    "stock": 70
+  },
+  {
+    "product": "educational toys",
+    "ecommerce": "3dcart",
+    "stock": 61
+  },
+  {
+    "product": "DIY kits",
+    "ecommerce": "Shopify",
+    "stock": 67
+  },
+  {
+    "product": "gift items",
+    "ecommerce": "BigCommerce",
+    "stock": 77
+  },
+  {
+    "product": "vintage items",
+    "ecommerce": "WooCommerce",
+    "stock": 86
+  },
+  {
+    "product": "handmade crafts",
+    "ecommerce": "Magento",
+    "stock": 19
+  },
+  {
+    "product": "fitness apparel",
+    "ecommerce": "Squarespace",
+    "stock": 41
+  },
+  {
+    "product": "smart home devices",
+    "ecommerce": "Wix",
+    "stock": 23
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Volusion",
+    "stock": 83
+  },
+  {
+    "product": "puzzles",
+    "ecommerce": "OpenCart",
+    "stock": 95
+  },
+  {
+    "product": "board games",
+    "ecommerce": "PrestaShop",
+    "stock": 83
+  },
+  {
+    "product": "board games",
+    "ecommerce": "3dcart",
+    "stock": 5
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Shopify",
+    "stock": 58
+  },
+  {
+    "product": "board games",
+    "ecommerce": "BigCommerce",
+    "stock": 52
+  },
+  {
+    "product": "board games",
+    "ecommerce": "WooCommerce",
+    "stock": 2
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Magento",
+    "stock": 25
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Squarespace",
+    "stock": 92
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Wix",
+    "stock": 31
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Volusion",
+    "stock": 37
+  },
+  {
+    "product": "digital",
+    "ecommerce": "OpenCart",
+    "stock": 32
+  },
+  {
+    "product": "clothes",
+    "ecommerce": "PrestaShop",
+    "stock": 48
+  },
+  {
+    "product": "stationery",
+    "ecommerce": "3dcart",
+    "stock": 43
+  },
+  {
+    "product": "electronics",
+    "ecommerce": "Shopify",
+    "stock": 29
+  },
+  {
+    "product": "toys",
+    "ecommerce": "BigCommerce",
+    "stock": 21
+  },
+  {
+    "product": "books",
+    "ecommerce": "WooCommerce",
+    "stock": 12
+  },
+  {
+    "product": "jewelry",
+    "ecommerce": "Magento",
+    "stock": 88
+  },
+  {
+    "product": "tools",
+    "ecommerce": "Squarespace",
+    "stock": 97
+  },
+  {
+    "product": "cosmetics",
+    "ecommerce": "Wix",
+    "stock": 4
+  },
+  {
+    "product": "sporting goods",
+    "ecommerce": "Volusion",
+    "stock": 81
+  },
+  {
+    "product": "home decor",
+    "ecommerce": "OpenCart",
+    "stock": 74
+  },
+  {
+    "product": "kitchenware",
+    "ecommerce": "PrestaShop",
+    "stock": 53
+  },
+  {
+    "product": "pet supplies",
+    "ecommerce": "3dcart",
+    "stock": 58
+  },
+  {
+    "product": "art supplies",
+    "ecommerce": "Shopify",
+    "stock": 70
+  },
+  {
+    "product": "office supplies",
+    "ecommerce": "BigCommerce",
+    "stock": 91
+  },
+  {
+    "product": "music instruments",
+    "ecommerce": "WooCommerce",
+    "stock": 92
+  },
+  {
+    "product": "fitness equipment",
+    "ecommerce": "Magento",
+    "stock": 13
+  },
+  {
+    "product": "party supplies",
+    "ecommerce": "Squarespace",
+    "stock": 2
+  },
+  {
+    "product": "gardening tools",
+    "ecommerce": "Wix",
+    "stock": 95
+  },
+  {
+    "product": "baby products",
+    "ecommerce": "Volusion",
+    "stock": 67
+  },
+  {
+    "product": "automotive accessories",
+    "ecommerce": "OpenCart",
+    "stock": 37
+  },
+  {
+    "product": "video games",
+    "ecommerce": "PrestaShop",
+    "stock": 93
+  },
+  {
+    "product": "collectibles",
+    "ecommerce": "3dcart",
+    "stock": 83
+  },
+  {
+    "product": "craft supplies",
+    "ecommerce": "Shopify",
+    "stock": 12
+  },
+  {
+    "product": "outdoor gear",
+    "ecommerce": "BigCommerce",
+    "stock": 52
+  },
+  {
+    "product": "fashion accessories",
+    "ecommerce": "WooCommerce",
+    "stock": 42
+  },
+  {
+    "product": "travel accessories",
+    "ecommerce": "Magento",
+    "stock": 56
+  },
+  {
+    "product": "health products",
+    "ecommerce": "Squarespace",
+    "stock": 17
+  },
+  {
+    "product": "food items",
+    "ecommerce": "Wix",
+    "stock": 37
+  },
+  {
+    "product": "beverages",
+    "ecommerce": "Volusion",
+    "stock": 31
+  },
+  {
+    "product": "furniture",
+    "ecommerce": "OpenCart",
+    "stock": 85
+  },
+  {
+    "product": "tech gadgets",
+    "ecommerce": "PrestaShop",
+    "stock": 50
+  },
+  {
+    "product": "personal care products",
+    "ecommerce": "3dcart",
+    "stock": 37
+  },
+  {
+    "product": "educational toys",
+    "ecommerce": "Shopify",
+    "stock": 33
+  },
+  {
+    "product": "DIY kits",
+    "ecommerce": "BigCommerce",
+    "stock": 66
+  },
+  {
+    "product": "gift items",
+    "ecommerce": "WooCommerce",
+    "stock": 20
+  },
+  {
+    "product": "vintage items",
+    "ecommerce": "Magento",
+    "stock": 84
+  },
+  {
+    "product": "handmade crafts",
+    "ecommerce": "Squarespace",
+    "stock": 33
+  },
+  {
+    "product": "fitness apparel",
+    "ecommerce": "Wix",
+    "stock": 62
+  },
+  {
+    "product": "smart home devices",
+    "ecommerce": "Volusion",
+    "stock": 84
+  },
+  {
+    "product": "board games",
+    "ecommerce": "OpenCart",
+    "stock": 94
+  },
+  {
+    "product": "puzzles",
+    "ecommerce": "PrestaShop",
+    "stock": 30
+  },
+  {
+    "product": "board games",
+    "ecommerce": "3dcart",
+    "stock": 54
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Shopify",
+    "stock": 16
+  },
+  {
+    "product": "board games",
+    "ecommerce": "BigCommerce",
+    "stock": 70
+  },
+  {
+    "product": "board games",
+    "ecommerce": "WooCommerce",
+    "stock": 79
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Magento",
+    "stock": 12
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Squarespace",
+    "stock": 96
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Wix",
+    "stock": 82
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Volusion",
+    "stock": 27
+  },
+  {
+    "product": "board games",
+    "ecommerce": "OpenCart",
+    "stock": 49
+  },
+  {
+    "product": "digital",
+    "ecommerce": "PrestaShop",
+    "stock": 42
+  },
+  {
+    "product": "clothes",
+    "ecommerce": "3dcart",
+    "stock": 6
+  },
+  {
+    "product": "stationery",
+    "ecommerce": "Shopify",
+    "stock": 10
+  },
+  {
+    "product": "electronics",
+    "ecommerce": "BigCommerce",
+    "stock": 83
+  },
+  {
+    "product": "toys",
+    "ecommerce": "WooCommerce",
+    "stock": 52
+  },
+  {
+    "product": "books",
+    "ecommerce": "Magento",
+    "stock": 42
+  },
+  {
+    "product": "jewelry",
+    "ecommerce": "Squarespace",
+    "stock": 55
+  },
+  {
+    "product": "tools",
+    "ecommerce": "Wix",
+    "stock": 96
+  },
+  {
+    "product": "cosmetics",
+    "ecommerce": "Volusion",
+    "stock": 97
+  },
+  {
+    "product": "sporting goods",
+    "ecommerce": "OpenCart",
+    "stock": 44
+  },
+  {
+    "product": "home decor",
+    "ecommerce": "PrestaShop",
+    "stock": 40
+  },
+  {
+    "product": "kitchenware",
+    "ecommerce": "3dcart",
+    "stock": 31
+  },
+  {
+    "product": "pet supplies",
+    "ecommerce": "Shopify",
+    "stock": 85
+  },
+  {
+    "product": "art supplies",
+    "ecommerce": "BigCommerce",
+    "stock": 87
+  },
+  {
+    "product": "office supplies",
+    "ecommerce": "WooCommerce",
+    "stock": 85
+  },
+  {
+    "product": "music instruments",
+    "ecommerce": "Magento",
+    "stock": 41
+  },
+  {
+    "product": "fitness equipment",
+    "ecommerce": "Squarespace",
+    "stock": 47
+  },
+  {
+    "product": "party supplies",
+    "ecommerce": "Wix",
+    "stock": 58
+  },
+  {
+    "product": "gardening tools",
+    "ecommerce": "Volusion",
+    "stock": 21
+  },
+  {
+    "product": "baby products",
+    "ecommerce": "OpenCart",
+    "stock": 77
+  },
+  {
+    "product": "automotive accessories",
+    "ecommerce": "PrestaShop",
+    "stock": 14
+  },
+  {
+    "product": "video games",
+    "ecommerce": "3dcart",
+    "stock": 31
+  },
+  {
+    "product": "collectibles",
+    "ecommerce": "Shopify",
+    "stock": 4
+  },
+  {
+    "product": "craft supplies",
+    "ecommerce": "BigCommerce",
+    "stock": 11
+  },
+  {
+    "product": "outdoor gear",
+    "ecommerce": "WooCommerce",
+    "stock": 92
+  },
+  {
+    "product": "fashion accessories",
+    "ecommerce": "Magento",
+    "stock": 99
+  },
+  {
+    "product": "travel accessories",
+    "ecommerce": "Squarespace",
+    "stock": 22
+  },
+  {
+    "product": "health products",
+    "ecommerce": "Wix",
+    "stock": 93
+  },
+  {
+    "product": "food items",
+    "ecommerce": "Volusion",
+    "stock": 82
+  },
+  {
+    "product": "beverages",
+    "ecommerce": "OpenCart",
+    "stock": 20
+  },
+  {
+    "product": "furniture",
+    "ecommerce": "PrestaShop",
+    "stock": 22
+  },
+  {
+    "product": "tech gadgets",
+    "ecommerce": "3dcart",
+    "stock": 85
+  },
+  {
+    "product": "personal care products",
+    "ecommerce": "Shopify",
+    "stock": 82
+  },
+  {
+    "product": "educational toys",
+    "ecommerce": "BigCommerce",
+    "stock": 86
+  },
+  {
+    "product": "DIY kits",
+    "ecommerce": "WooCommerce",
+    "stock": 82
+  },
+  {
+    "product": "gift items",
+    "ecommerce": "Magento",
+    "stock": 78
+  },
+  {
+    "product": "vintage items",
+    "ecommerce": "Squarespace",
+    "stock": 27
+  },
+  {
+    "product": "handmade crafts",
+    "ecommerce": "Wix",
+    "stock": 100
+  },
+  {
+    "product": "fitness apparel",
+    "ecommerce": "Volusion",
+    "stock": 53
+  },
+  {
+    "product": "smart home devices",
+    "ecommerce": "OpenCart",
+    "stock": 61
+  },
+  {
+    "product": "board games",
+    "ecommerce": "PrestaShop",
+    "stock": 35
+  },
+  {
+    "product": "puzzles",
+    "ecommerce": "3dcart",
+    "stock": 33
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Shopify",
+    "stock": 51
+  },
+  {
+    "product": "board games",
+    "ecommerce": "BigCommerce",
+    "stock": 3
+  },
+  {
+    "product": "board games",
+    "ecommerce": "WooCommerce",
+    "stock": 38
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Magento",
+    "stock": 96
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Squarespace",
+    "stock": 44
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Wix",
+    "stock": 71
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Volusion",
+    "stock": 14
+  },
+  {
+    "product": "board games",
+    "ecommerce": "OpenCart",
+    "stock": 89
+  },
+  {
+    "product": "board games",
+    "ecommerce": "PrestaShop",
+    "stock": 74
+  },
+  {
+    "product": "digital",
+    "ecommerce": "3dcart",
+    "stock": 100
+  },
+  {
+    "product": "clothes",
+    "ecommerce": "Shopify",
+    "stock": 12
+  },
+  {
+    "product": "stationery",
+    "ecommerce": "BigCommerce",
+    "stock": 11
+  },
+  {
+    "product": "electronics",
+    "ecommerce": "WooCommerce",
+    "stock": 21
+  },
+  {
+    "product": "toys",
+    "ecommerce": "Magento",
+    "stock": 64
+  },
+  {
+    "product": "books",
+    "ecommerce": "Squarespace",
+    "stock": 95
+  },
+  {
+    "product": "jewelry",
+    "ecommerce": "Wix",
+    "stock": 7
+  },
+  {
+    "product": "tools",
+    "ecommerce": "Volusion",
+    "stock": 43
+  },
+  {
+    "product": "cosmetics",
+    "ecommerce": "OpenCart",
+    "stock": 95
+  },
+  {
+    "product": "sporting goods",
+    "ecommerce": "PrestaShop",
+    "stock": 96
+  },
+  {
+    "product": "home decor",
+    "ecommerce": "3dcart",
+    "stock": 18
+  },
+  {
+    "product": "kitchenware",
+    "ecommerce": "Shopify",
+    "stock": 68
+  },
+  {
+    "product": "pet supplies",
+    "ecommerce": "BigCommerce",
+    "stock": 71
+  },
+  {
+    "product": "art supplies",
+    "ecommerce": "WooCommerce",
+    "stock": 5
+  },
+  {
+    "product": "office supplies",
+    "ecommerce": "Magento",
+    "stock": 99
+  },
+  {
+    "product": "music instruments",
+    "ecommerce": "Squarespace",
+    "stock": 25
+  },
+  {
+    "product": "fitness equipment",
+    "ecommerce": "Wix",
+    "stock": 3
+  },
+  {
+    "product": "party supplies",
+    "ecommerce": "Volusion",
+    "stock": 13
+  },
+  {
+    "product": "gardening tools",
+    "ecommerce": "OpenCart",
+    "stock": 58
+  },
+  {
+    "product": "baby products",
+    "ecommerce": "PrestaShop",
+    "stock": 99
+  },
+  {
+    "product": "automotive accessories",
+    "ecommerce": "3dcart",
+    "stock": 24
+  },
+  {
+    "product": "video games",
+    "ecommerce": "Shopify",
+    "stock": 48
+  },
+  {
+    "product": "collectibles",
+    "ecommerce": "BigCommerce",
+    "stock": 22
+  },
+  {
+    "product": "craft supplies",
+    "ecommerce": "WooCommerce",
+    "stock": 14
+  },
+  {
+    "product": "outdoor gear",
+    "ecommerce": "Magento",
+    "stock": 26
+  },
+  {
+    "product": "fashion accessories",
+    "ecommerce": "Squarespace",
+    "stock": 76
+  },
+  {
+    "product": "travel accessories",
+    "ecommerce": "Wix",
+    "stock": 96
+  },
+  {
+    "product": "health products",
+    "ecommerce": "Volusion",
+    "stock": 17
+  },
+  {
+    "product": "food items",
+    "ecommerce": "OpenCart",
+    "stock": 12
+  },
+  {
+    "product": "beverages",
+    "ecommerce": "PrestaShop",
+    "stock": 92
+  },
+  {
+    "product": "furniture",
+    "ecommerce": "3dcart",
+    "stock": 7
+  },
+  {
+    "product": "tech gadgets",
+    "ecommerce": "Shopify",
+    "stock": 93
+  },
+  {
+    "product": "personal care products",
+    "ecommerce": "BigCommerce",
+    "stock": 47
+  },
+  {
+    "product": "educational toys",
+    "ecommerce": "WooCommerce",
+    "stock": 31
+  },
+  {
+    "product": "DIY kits",
+    "ecommerce": "Magento",
+    "stock": 20
+  },
+  {
+    "product": "gift items",
+    "ecommerce": "Squarespace",
+    "stock": 13
+  },
+  {
+    "product": "vintage items",
+    "ecommerce": "Wix",
+    "stock": 28
+  },
+  {
+    "product": "handmade crafts",
+    "ecommerce": "Volusion",
+    "stock": 59
+  },
+  {
+    "product": "fitness apparel",
+    "ecommerce": "OpenCart",
+    "stock": 96
+  },
+  {
+    "product": "smart home devices",
+    "ecommerce": "PrestaShop",
+    "stock": 17
+  },
+  {
+    "product": "board games",
+    "ecommerce": "3dcart",
+    "stock": 22
+  },
+  {
+    "product": "puzzles",
+    "ecommerce": "Shopify",
+    "stock": 26
+  },
+  {
+    "product": "board games",
+    "ecommerce": "BigCommerce",
+    "stock": 31
+  },
+  {
+    "product": "board games",
+    "ecommerce": "WooCommerce",
+    "stock": 98
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Magento",
+    "stock": 100
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Squarespace",
+    "stock": 93
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Wix",
+    "stock": 39
+  },
+  {
+    "product": "board games",
+    "ecommerce": "Volusion",
+    "stock": 14
+  },
+  {
+    "product": "board games",
+    "ecommerce": "OpenCart",
+    "stock": 29
+  },
+  {
+    "product": "board games",
+    "ecommerce": "PrestaShop",
+    "stock": 80
+  },
+  {
+    "product": "board games",
+    "ecommerce": "3dcart",
+    "stock": 66
+  }
+]
