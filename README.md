@@ -96,21 +96,78 @@ app.listen(3000, () => {
 ```
 
 **Request Body:**
-``json
+```json
 {
     "id": 123,
     "status": "delivered" // or "returned"
 }
 ```
 
-** Response:**
+**Response:**
 ```json
 {
-    "success": "Inventory synchronized successfully",
-    "updatedInventory": {
-        "product": "product-name",
-        "ecommerce": "platform-name",
-        "stock": 50
-    }
+  "success": "Inventory synchronized successfully",
+  "updatedInventory": {
+    "product": "product-name",
+    "ecommerce": "platform-name",
+    "stock": 50
+  }
 }
 ```
+
+## Analytics
+
+### Fetch Platform Analytics
+
+**Method:** GET
+**Endpoint:** `/api/analytics`
+
+**Headers:**
+```json
+{
+  "Authorization": "Bearer <your-JWT-token>"
+}
+```
+**Response:**
+**Response:**
+```json
+{
+  "success": "Analytics fetched successfully",
+  "analytics": {
+    "electronics": {
+      "delivered": 10,
+      "returned": 2
+    },
+    "moreCategories": "<more-data>"
+  }
+}
+```
+## Project Structure
+```bash
+.
+├── index.js             # Main application file
+├── cus_details.json     # Customer details mock database
+├── mcf_inventory.json   # Inventory details mock database
+├── package.json         # Project dependencies and metadata
+└── README.md            # Documentation
+```
+## Technologies used
+* Node.js: Backend runtime environment
+* Express.js: Web framework
+* JSON Web Token (JWT): Authentication
+* Bcrypt.js: Password hashing
+* Morgan: Logging HTTP requests
+
+## Known Issues
+* Port Conflicts : 
+  If port 8000 is in use, change the port in index.js.
+* File Persistence : 
+  Ensure JSON files are correctly structured and accessible in the project 
+ directory.
+
+## Future Enhancements
+* Migrate from JSON file-based storage to a database like MongoDB or MySQL.
+* Add more granular analytics, such as trends over time.
+* Implement pagination for large data queries.
+
+
